@@ -2,6 +2,8 @@
 
 namespace MongoDB\Operation;
 
+require 'src/functions.php';
+
 use MongoDB\Driver\Command;
 use MongoDB\Driver\Query;
 use MongoDB\Driver\Server;
